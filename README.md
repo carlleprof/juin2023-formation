@@ -3,9 +3,9 @@
 
 ##titre de niveau 2
 
-+1
-+2
-+3
++ 1
++ 2
++ 3
 
 
 1. carl
@@ -17,9 +17,9 @@ Formation *GIT*
 
 ___
 
-'''html
+```html
 <html></html>
-'''
+```
 
 
 [lien personnel](http://google.ca)
