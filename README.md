@@ -10,6 +10,7 @@
 
 1. carl
 2. Gendron
+3. France
 
 Formation **GIT**
 
@@ -28,7 +29,7 @@ ___
 #include <stdio.h>
 
 int main(void) {
-    printf("Hello World!\n");
+   
     return 0;
 }
 ```
